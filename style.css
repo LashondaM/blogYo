@@ -1,0 +1,38 @@
+.container {
+    background-color: rgba(25, 8, 122, 0);
+    min-height: 105vh;
+}
+body{
+    margin-bottom: -15px;
+    background-image: url('https://lh3.googleusercontent.com/proxy/FR6A3plN5eaeKJbcM-Dl6qMxBa67-8dvblRjmqrze4uZEHPdM091AGMNm4MR2e56q6BSnlb8pwJ2QhKn_XDbP4QHepeqlhyiFP08IBu9mVIWwbK8');
+
+
+}
+nav{
+    background-color: rgba(0, 238, 255, 0.288);
+    margin: -15px;
+}
+.post{
+    margin-top: 20px;
+}
+
+img {
+    max-width: 1000px;
+    max-height: 600px ;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
+
+p {
+    margin-bottom: 5px;
+    margin-top: 15px;
+    text-align: center;
+    text-decoration-color: white;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 38px;
+}

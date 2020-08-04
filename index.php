@@ -1,2 +1,1 @@
-<?php include_once(“index.html”); ? >
-node
+<?php include_once(“index.html”); ?>
